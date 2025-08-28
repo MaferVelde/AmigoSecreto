@@ -1,2 +1,2 @@
-<em># AmigoSecreto </em>
+<em> #AmigoSecreto </em>
 Juego del amigo secreto
